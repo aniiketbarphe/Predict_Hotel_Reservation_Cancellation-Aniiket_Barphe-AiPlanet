@@ -40,14 +40,26 @@
 
 **13) Market segment type:** Market segment designation.
 
-repeated_guest: Is the customer a repeated guest? (0 - No, 1- Yes)
+**14) repeated_guest:** Is the customer a repeated guest? (0 - No, 1- Yes)
 
-noofprevious_cancellations: Number of previous bookings that were canceled by the customer prior to the current booking
+**15) noofprevious_cancellations:** Number of previous bookings that were canceled by the customer prior to the current booking
 
-noofpreviousbookingsnot_canceled: Number of previous bookings not canceled by the customer prior to the current booking
+**16) noofpreviousbookingsnot_canceled:** Number of previous bookings not canceled by the customer prior to the current booking
 
-avgpriceper_room: Average price per day of the reservation; prices of the rooms are dynamic. (in euros)
+**17) avgpriceper_room:** Average price per day of the reservation; prices of the rooms are dynamic. (in euros)
 
-noofspecial_requests: Total number of special requests made by the customer (e.g. high floor, view from the room, etc)
+**18) noofspecial_requests:** Total number of special requests made by the customer (e.g. high floor, view from the room, etc)
 
-booking_status: Flag indicating if the booking was canceled or not.
+**19) booking_status:** Flag indicating if the booking was canceled or not
+
+**C) Evaluation metric:-** The submission will be evaluated using the Accuracy_Score
+
+**D) Public and Private Split:-**
+
+d1) This hackathon supports private and public leaderboards
+
+d2) The public leaderboard is evaluated on 50% of Test data
+
+d3) The private leaderboard will be made available at the end of the hackathon which will be evaluated on 100% of Test data
+
+#Summary
