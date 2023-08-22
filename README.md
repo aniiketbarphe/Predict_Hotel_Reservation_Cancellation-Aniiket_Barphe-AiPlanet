@@ -62,4 +62,16 @@ d2) The public leaderboard is evaluated on 50% of Test data
 
 d3) The private leaderboard will be made available at the end of the hackathon which will be evaluated on 100% of Test data
 
-#Summary
+# Summary
+
+**a) Best Submission Score:-** 89.5744
+
+**b) Best Model:-** Ensemble Technique (Random Forest Classifier with Best Hyperparameters + Histogram Gradient Boosting Classification)
+
+![Leader1](https://github.com/aniiketbarphe/Predict_Hotel_Reservation_Cancellation-Aniiket_Barphe-AiPlanet/assets/84449238/e7cfeca8-a0ab-4886-939d-4ea7c6888e83)
+
+![Leaderborad4](https://github.com/aniiketbarphe/Predict_Hotel_Reservation_Cancellation-Aniiket_Barphe-AiPlanet/assets/84449238/7970e644-8b2c-4d66-807b-02a5793edc9a)
+
+**c) Competition Link:-**  https://aiplanet.com/challenges/319/create/leaderboard/practice
+
+**d) Rank Scored:-**  **02** out of **13** registered participants
